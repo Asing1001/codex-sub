@@ -1,4 +1,4 @@
-# codex-client
+# codex-sub
 
 A thin Python library that lets your programs call OpenAI models using your existing Codex/openclaw subscription — no API key, no proxy process, no Docker.
 
